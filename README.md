@@ -167,5 +167,5 @@ SOULEIMANI Mohamed Rayan , EL FATTAHI Wissal , OUHMIDOU Amine, BENABDESSADEK Dik
 Ecole Marocaine des Sciences de l'Ingénieurs
 
 📄 Licence
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence MIT.
 
