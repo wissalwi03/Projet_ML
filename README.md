@@ -55,19 +55,6 @@ L'uploader sur Google Colab
 
 Exécuter les cellules (les installations se font automatiquement)
 
-📁 Structure du projet
-text
-project/
-│
-├── decision_trees_forest_covertypes.ipynb  # Notebook principal
-├── README.md                               # Documentation
-├── requirements.txt                        # Dépendances
-├── models/                                 # Modèles sauvegardés
-│   ├── best_decision_tree.pkl
-│   ├── best_random_forest.pkl
-│   └── scaler.pkl
-└── slides/                                 # Présentation
-    └── presentation.pptx
 📈 Métriques utilisées
 Accuracy : Proportion de prédictions correctes
 
